@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+/Users/kalpesh/Desktop/UK_BATCH_3/Day1_Design_Patterns_and_Java/Code/JAVA_Basics/.metadata/.plugins/org.eclipse.jdt.core
+829174997.index
+2056382949.index
+1994945046.index
+1097106788.index
+2607988033.index
+3469885415.index

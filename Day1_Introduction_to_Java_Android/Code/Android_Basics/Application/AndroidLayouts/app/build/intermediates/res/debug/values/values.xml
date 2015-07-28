@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day1_Introduction_to_Java_Android/Code/Android_Basics/Application/AndroidLayouts/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">AndroidLayouts</string>
+    <string name="hello">Hello World, AndroidLayoutsActivity!</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.javacodegeeks.core.lang.string&apos; to &apos;com.appexperts.core.lang.string&apos;&#x0A;- Original project: &apos;StringClassExample&apos;&#x0A;- Original element: &apos;StringClassExample/src/com.javacodegeeks.core.lang.string&apos;&#x0A;- Renamed element: &apos;StringClassExample/src/com.appexperts.core.lang.string&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.javacodegeeks.core.lang.string&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.javacodegeeks.core.lang.string" name="com.appexperts.core.lang.string" qualified="false" references="true" stamp="1431820618989" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.javacodegeeks.javabasics.stringarray&apos; to &apos;com.appexperts.javabasics.stringarray&apos;&#x0A;- Original project: &apos;StringArray&apos;&#x0A;- Original element: &apos;StringArray/src/com.javacodegeeks.javabasics.stringarray&apos;&#x0A;- Renamed element: &apos;StringArray/src/com.appexperts.javabasics.stringarray&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.javacodegeeks.javabasics.stringarray&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.javacodegeeks.javabasics.stringarray" name="com.appexperts.javabasics.stringarray" qualified="false" references="true" stamp="1431802535352" textual="false" version="1.0"/>
+</session>
