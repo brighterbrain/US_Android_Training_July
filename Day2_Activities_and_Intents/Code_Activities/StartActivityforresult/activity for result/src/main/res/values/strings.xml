@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Start Activity for result</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_display">Press the button\n to get the secret script</string><string name="script_string">The rain in Spain,
+falls mainly on the plain!</string>
+    <string name="secret_script">What\'s the secret script?</string>
+    <string name="request_cancelled">Demonstrate request cancelled</string>
+
+</resources>

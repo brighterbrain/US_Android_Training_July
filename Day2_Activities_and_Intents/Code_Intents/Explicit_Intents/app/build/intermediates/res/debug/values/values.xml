@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/kalpesh/Desktop/US_Batch_July/Day2_Activities_and_Intents/Code_Intents/Explicit_Intents/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="green">#adff2f</color>
+    <string name="app_name">Idea2</string>
+    <string name="cancel">Cancel</string>
+    <string name="hello">Hello World, First!</string>
+    <string name="ok">OK</string>
+    <string name="welcome">Welcome</string>
+</resources>

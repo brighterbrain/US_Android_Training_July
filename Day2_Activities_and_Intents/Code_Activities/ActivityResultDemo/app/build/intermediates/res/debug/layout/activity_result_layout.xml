@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <EditText 
+        android:id="@+id/txt_data"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/str_hnt_data"
+        
+        />
+    
+    <Button 
+        android:id="@+id/btn_ok"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@android:string/ok"
+        />
+    
+
+</LinearLayout><!-- From: file:/Users/kalpesh/Desktop/US_Batch_July/Day2_Activities_and_Intents/Code_Activities/ActivityResultDemo/app/src/main/res/layout/activity_result_layout.xml -->

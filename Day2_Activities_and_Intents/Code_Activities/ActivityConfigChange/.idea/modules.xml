@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityConfigChange.iml" filepath="$PROJECT_DIR$/ActivityConfigChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_configuration_change/activity_configuration_change.iml" filepath="$PROJECT_DIR$/activity_configuration_change/activity_configuration_change.iml" />
+    </modules>
+  </component>
+</project>

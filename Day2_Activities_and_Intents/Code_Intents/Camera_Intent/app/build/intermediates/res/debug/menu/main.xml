@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day3_Activities_And_Intents/Code_Intents/Camera_Intent/app/src/main/res/menu/main.xml -->

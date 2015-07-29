@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidTwoActivitiesActivity!</string>
+    <string name="app_name">AndroidTwoActivities</string>
+    <string name="username">Insert username</string>
+    <string name="passwd">Insert password</string>
+
+</resources>

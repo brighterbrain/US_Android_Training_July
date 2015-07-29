@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/kalpesh/Desktop/US_Batch_July/Day2_Activities_and_Intents/Code_Activities/AndroidTwoActivities1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">AndroidTwoActivities</string>
+    <string name="hello">Hello World, AndroidTwoActivitiesActivity!</string>
+    <string name="passwd">Insert password</string>
+    <string name="username">Insert username</string>
+</resources>
