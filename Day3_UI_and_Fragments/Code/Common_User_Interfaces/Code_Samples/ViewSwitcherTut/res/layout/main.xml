@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewSwitcher xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/viewSwitcher01" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<RelativeLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<TextView android:text="West of Omaha" android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:layout_toRightOf="@+id/progressbar"
+			android:gravity="center" android:textSize="25sp" android:textColor="#ff0000"
+			android:id="@+id/textView1" />
+		<TimePicker android:id="@+id/timePicker1"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_below="@+id/textView1"></TimePicker>
+		<Button android:layout_width="wrap_content" android:text="Next button of joy"
+			android:layout_height="wrap_content" android:id="@+id/button1"
+			android:layout_below="@+id/timePicker1"></Button>
+	</RelativeLayout>
+
+	<RelativeLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:gravity="center_horizontal">
+		<TextView android:text="South of Kentucky"
+			android:layout_height="wrap_content" android:layout_width="wrap_content"
+			android:textColor="#ff0000" android:textSize="25sp" android:id="@+id/textView2"
+			android:layout_alignParentTop="true" />
+		<DatePicker android:id="@+id/datePicker1"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_below="@+id/textView2"></DatePicker>
+		<Button android:layout_width="wrap_content" android:text="Previous button of joy"
+			android:layout_height="wrap_content" android:id="@+id/button2"
+			android:layout_below="@+id/datePicker1"></Button>
+	</RelativeLayout>
+
+
+
+</ViewSwitcher>

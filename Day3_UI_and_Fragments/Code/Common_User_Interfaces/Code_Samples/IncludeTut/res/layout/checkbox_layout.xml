@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent" android:background="#C0C0C0">
+	<TextView android:id="@+id/textView1" android:layout_height="wrap_content"
+		android:text="Checkview layout" android:textSize="18sp"
+		android:layout_width="fill_parent" android:gravity="center_horizontal"
+		android:textColor="#FFFFFF"></TextView>
+	<RelativeLayout android:layout_height="wrap_content"
+		android:id="@+id/relativeLayout1" android:layout_width="match_parent">
+		<CheckBox android:id="@+id/checkBox1" android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:layout_alignParentTop="true"
+			android:layout_alignParentLeft="true" android:text="Happy camper"></CheckBox>
+		<CheckBox android:id="@+id/checkBox2" android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:layout_alignParentLeft="true"
+			android:layout_below="@+id/checkBox1" android:text="Devil in the detail"></CheckBox>
+		<CheckBox android:id="@+id/checkBox3" android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:layout_alignParentLeft="true"
+			android:layout_below="@+id/checkBox2" android:text="Don't worry, be happy!"></CheckBox>
+	</RelativeLayout>
+</LinearLayout>

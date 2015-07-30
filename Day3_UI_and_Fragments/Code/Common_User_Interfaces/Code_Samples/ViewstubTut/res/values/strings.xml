@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ViewstubTutActivity!</string>
+    <string name="app_name">ViewstubTut</string>
+    <string name="question">How many dwarfs were there in, \"Snow white and the seven dwarfs?\"</string>
+</resources>

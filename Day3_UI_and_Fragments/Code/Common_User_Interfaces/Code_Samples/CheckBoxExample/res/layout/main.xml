@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose Your Fevourite Mobile OS"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <CheckBox
+        android:id="@+id/android"
+        style="?android:attr/starStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="techSelection"
+        android:text="Android" />
+
+    <CheckBox
+        android:id="@+id/iphone"
+         style="?android:attr/starStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="techSelection"
+        android:text="IPhone" />
+
+    <CheckBox
+        android:id="@+id/blackberry"
+         style="?android:attr/starStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="techSelection"
+        android:text="BlackBerry" />
+    <CheckBox
+        android:id="@+id/windows"
+         style="?android:attr/starStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="techSelection"
+        android:text="Windows Mobile" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You Choose - "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose Your Fevourite Web Technology  - "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <CheckBox
+        android:id="@+id/micro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="webTechSelection"
+        android:text="Microsoft.NET" />
+
+    <CheckBox
+        android:id="@+id/j2ee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="webTechSelection"
+        android:text="J2EE" />
+
+    <CheckBox
+        android:id="@+id/php"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="webTechSelection"
+        android:text="PHP" />
+
+    
+    <TextView
+        android:id="@+id/webresult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>

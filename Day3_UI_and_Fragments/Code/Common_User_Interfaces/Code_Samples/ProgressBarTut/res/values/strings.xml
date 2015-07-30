@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ProgressBarTutActivity!</string>
+    <string name="app_name">ProgressBarTut</string>
+    <string name="button_label">Click to show Progress Bar</string>
+    <string name="displayHint">Display when finished</string>
+</resources>

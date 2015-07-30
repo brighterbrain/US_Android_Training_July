@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+<!--Display Image at Top of Text (android:drawableTop)  -->
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/android" 
+        android:text="Android on Top" />
+<!--Display Image at Bottom of Text (android:drawableBottom)  -->
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Android on Bottom"
+        android:drawableBottom="@drawable/android" />
+
+<!--Display Image at Left of Text (android:drawableLeft)  -->
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Android On Left"
+        android:drawableLeft="@drawable/android" />
+<!--Display Image at Right of Text (android:drawableRight)  -->
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Android on Right"
+        android:drawableRight="@drawable/android" />
+<!--Display Image at Around the Text (android:drawableRight,android:drawableTop,android:drawableBottom,android:drawableLeft)  -->
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Android"
+        android:drawableTop="@drawable/android"
+        android:drawableBottom="@drawable/android"
+        android:drawableLeft="@drawable/android"
+        android:drawableRight="@drawable/android" />
+
+</LinearLayout>

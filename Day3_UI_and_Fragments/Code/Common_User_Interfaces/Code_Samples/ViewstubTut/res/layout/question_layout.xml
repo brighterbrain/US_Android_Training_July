@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/container" android:layout_height="fill_parent"
+	android:layout_width="fill_parent" android:orientation="vertical">
+	<TextView android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:id="@+id/tv_question"
+		android:textSize="18sp" android:layout_marginTop="20dp"
+		android:layout_marginLeft="10dp" android:layout_marginRight="10dp"
+		android:text="@string/question"></TextView>
+	<RelativeLayout android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:id="@+id/relativeLayout1"
+		android:paddingLeft="20dp" android:paddingRight="20dp"
+		android:paddingTop="20dp" android:paddingBottom="20dp">
+		<RadioGroup android:id="@+id/radioGroup1"
+			android:layout_height="wrap_content" android:layout_width="wrap_content">
+			<RadioButton android:id="@+id/radio1"
+				android:layout_height="wrap_content" android:checked="true"
+				android:text="One" android:layout_width="fill_parent"></RadioButton>
+			<RadioButton android:id="@+id/radio2"
+				android:layout_height="wrap_content" android:layout_width="wrap_content"
+				android:text="Six"></RadioButton>
+			<RadioButton android:id="@+id/radio3"
+				android:layout_height="wrap_content" android:layout_width="wrap_content"
+				android:text="Nine"></RadioButton>
+			<RadioButton android:id="@+id/radio4"
+				android:layout_height="wrap_content" android:layout_width="wrap_content"
+				android:text="Seven"></RadioButton>
+			<RadioButton android:id="@+id/radio5"
+				android:layout_height="wrap_content" android:layout_width="wrap_content"
+				android:text="Twelve"></RadioButton>
+		</RadioGroup>
+	</RelativeLayout>
+</LinearLayout>

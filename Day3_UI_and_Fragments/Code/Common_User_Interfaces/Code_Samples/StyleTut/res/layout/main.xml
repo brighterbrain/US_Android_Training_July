@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" style="@style/mySilverBackgroundStyle">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/hello"
+		style="@style/myTitleStyle" />
+	<TextView android:id="@+id/textView1" android:layout_height="wrap_content"
+		android:text="No style applied" android:layout_width="wrap_content"
+		style="@android:style/TextAppearance.Large.Inverse"></TextView>
+	<TextView android:id="@+id/textView2" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="Parent style applied"
+		style="@style/myParentStyle"></TextView>
+	<TextView android:id="@+id/textView3" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="Child style applied"
+		style="@style/myChildStyle"></TextView>
+	<LinearLayout android:id="@+id/linearLayout1"
+		android:layout_width="match_parent" android:orientation="vertical"
+		style="@style/myBlackBackgroundStyle" android:layout_height="fill_parent">
+		<TextView android:id="@+id/textView4" android:layout_height="wrap_content"
+			android:text="Text in second linear layout" android:textSize="20sp"
+			android:gravity="center_horizontal" android:layout_width="fill_parent"
+			style="@style/redText"></TextView>
+	</LinearLayout>
+</LinearLayout>

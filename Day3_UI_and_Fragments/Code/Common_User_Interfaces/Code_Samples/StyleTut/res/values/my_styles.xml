@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="myParentStyle">
+		<item name="android:textColor">#FFFF00</item>
+		<item name="android:textSize">40sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="myChildStyle" parent="myParentStyle">
+		<item name="android:background">#00FF00</item>
+	</style>
+	<style name="myTitleStyle">
+		<item name="android:textSize">25sp</item>
+		<item name="android:textStyle">italic</item>
+		<item name="android:textColor">#FF0000</item>
+		<item name="android:gravity">center_horizontal</item>
+	</style>
+	<style name="mySilverBackgroundStyle">
+		<item name="android:background">#C0C0C0</item>
+		<item name="android:windowBackground">@color/Red</item>
+	</style>
+	<style name="myBlackBackgroundStyle">
+		<item name="android:background">#000000</item>
+	</style>
+	<style name="redText">
+		<item name="android:textColor">#FF0000</item>
+	</style>
+</resources>

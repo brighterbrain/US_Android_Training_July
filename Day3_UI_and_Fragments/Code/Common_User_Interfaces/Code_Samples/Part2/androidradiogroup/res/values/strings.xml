@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">GUIDemo8</string>
+    <string name="action_settings">Settings</string>
+    <string name="example_radiobutton">Example showing RadioButton</string>
+    <string name="website_name">Website URL</string>
+    <string name="website_radio0">www.tutorialspoint.com</string>
+    <string name="website_radio1">www.compileonline.com</string>
+    <string name="website_radio2">www.photofuntoos.com</string>
+</resources>

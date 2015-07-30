@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/hello" />
+	<ProgressBar android:layout_height="25px"
+		android:layout_width="250px" style="?android:attr/progressBarStyleHorizontal"
+		android:id="@+id/progress_bar_view" android:progress="20"
+		android:secondaryProgress="40" android:max="100">
+	</ProgressBar>
+	<Button android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/show_progress_bar"
+		android:text="@string/button_label"></Button>
+	<TextView android:id="@+id/finishedTextView"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:textSize="20sp" android:layout_gravity="center_horizontal"
+		android:hint="@string/displayHint"></TextView>
+</LinearLayout>
+
+<!-- The "?android:attr/foo" syntax with the "?" sigil means, "resolve the 
+	resource contained in this theme attribute within the current theme." -->
+			
+			
+

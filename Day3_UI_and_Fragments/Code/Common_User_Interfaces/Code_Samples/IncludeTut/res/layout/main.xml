@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="#2F4F4F">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/hello" />
+	<include layout="@layout/checkbox_layout" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/include1"></include>
+	<include layout="@layout/radio_layout" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@+id/include2"></include>
+	<include layout="@layout/text_layout" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/include3"></include>
+</LinearLayout>

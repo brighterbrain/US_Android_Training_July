@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:id="@+id/textView1" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:gravity="center_horizontal"
+		android:text="Activity Label" android:textSize="25sp"></TextView>
+	<RelativeLayout android:layout_height="wrap_content"
+		android:id="@+id/relativeLayout1" android:layout_width="match_parent"
+		android:background="@color/lightGrey">
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+			android:id="@+id/textView2" android:text="The Label:"
+			android:textSize="18sp" android:textColor="@color/orange"
+			android:layout_alignBaseline="@+id/editText1"></TextView>
+		<Button android:text="Button" android:id="@+id/button1"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_below="@+id/editText1"
+			android:layout_alignParentRight="true"></Button>
+		<EditText android:layout_height="wrap_content" android:id="@+id/editText1"
+			android:text="Enter Text" android:textSize="15sp"
+			android:layout_width="wrap_content" android:layout_alignParentRight="true"></EditText>
+	</RelativeLayout>
+	<RelativeLayout android:layout_height="wrap_content"
+		android:id="@+id/relativeLayout2" android:layout_width="match_parent"
+		android:background="@color/khaki">
+		<RadioButton android:layout_alignParentTop="true"
+			android:id="@+id/radioButton1" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="RadioButton"
+			android:textColor="@color/orange"></RadioButton>
+		<CheckBox android:layout_width="wrap_content" android:id="@+id/checkBox1"
+			android:layout_below="@+id/radioButton1" android:layout_height="wrap_content"
+			android:text="CheckBox" android:textColor="@color/orange"></CheckBox>
+		<ToggleButton android:id="@+id/toggleButton1"
+			android:layout_height="wrap_content" android:text="ToggleButton"
+			android:layout_alignParentRight="true" android:layout_toRightOf="@+id/checkBox1"
+			android:layout_alignBottom="@+id/checkBox1" android:layout_width="wrap_content"></ToggleButton>
+	</RelativeLayout>
+</LinearLayout>

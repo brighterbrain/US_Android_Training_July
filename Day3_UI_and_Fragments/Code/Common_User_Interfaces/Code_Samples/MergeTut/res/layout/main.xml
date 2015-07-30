@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="#2F4F4F">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/hello" />
+	<TextView android:id="@+id/textView1" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:gravity="center_horizontal"
+		android:textSize="25sp"
+		android:text="This text is in the main layout while everything below is in 
+		the merge_layout."></TextView>
+	<include layout="@layout/merge_layout" />
+</LinearLayout>
