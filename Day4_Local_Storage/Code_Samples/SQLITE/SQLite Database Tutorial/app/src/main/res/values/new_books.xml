@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="new_books">
+        <item>Android Security and Permissions made easy</item>
+        <item>Android Manifest File made easy</item>
+        <item>Android Graphics made easy</item>
+        <item>Android Animation made easy</item>
+        <item>Android Renderscript made easy</item>
+        <item>Android Multimedia and Camera made easy</item>
+        <item>Android Sensors made easy</item>
+        <item>Android Location and Maps made easy</item>
+        <item>Android App Widgets made easy</item>
+        <item>Android Bluetooth made easy</item>
+        <item>Android Near Field Communication made easy</item>
+    </string-array>
+
+</resources>

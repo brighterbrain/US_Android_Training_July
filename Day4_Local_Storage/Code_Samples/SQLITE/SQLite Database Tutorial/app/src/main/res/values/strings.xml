@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">www.101apps.co.za for Android made easy ebooks and Tutorials</string>
+    <string name="app_name">SQLite Database Tutorial</string>
+    <string name="addAll_label">Add all books - only do once</string>
+    <string name="add_label">Add a Book</string>
+    <string name="find_label">Find a Book</string>
+    <string name="update_label">Update Book</string>
+    <string name="delete_label">Delete Book</string>
+    <string name="show_label">Show all Books</string>
+    <string name="show_search_label">Show found books</string>
+    <string name="database_delete">Delete Entire Database</string>
+    <string name="database_delete_confirm">Confirm delete database - no recovery!</string>
+    <string name="add_all_books_label">Add All Books</string>
+
+</resources>

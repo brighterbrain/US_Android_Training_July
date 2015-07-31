@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day3_UI_and_Fragments/Code/Common_User_Interfaces/Internal%20Storage/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="yellow">#FFFF00</color>
+    <!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day3_UI_and_Fragments/Code/Common_User_Interfaces/Internal%20Storage/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Internal Storage Tutorial</string>
+    <string name="delete_button_label">Press to delete file</string>
+    <string name="hello">www.101apps.co.za for Android made easy eBooks and tutorials - ideal for beginners!</string>
+    <string name="read_button_label">Press to read file</string>
+    <string name="write_button_label">Press to write file</string>
+</resources>

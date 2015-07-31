@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="search_terms">
+        <item>Android</item>
+        <item>android</item>
+        <item>Content</item>
+        <item>loaders</item>
+        <item>Resources</item>
+        <item>user</item>
+        <item>Android Services made easy</item>
+        <item>pro</item>
+    </string-array>
+
+</resources>

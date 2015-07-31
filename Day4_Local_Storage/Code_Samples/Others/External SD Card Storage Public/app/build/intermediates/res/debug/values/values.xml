@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day3_UI_and_Fragments/Code/Common_User_Interfaces/External%20SD%20Card%20Storage%20Public/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">External Storage (public) Tutorial</string>
+    <string name="delete_picture">Press to delete saved picture</string>
+    <string name="display_image">Press to display saved image</string>
+    <string name="hello">www.101apps.co.za for Android ebooks and tutorials</string>
+    <string name="save_picture">Press to save picture to external storage</string>
+</resources>

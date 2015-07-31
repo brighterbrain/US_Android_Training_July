@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res"><file name="ic_launcher" path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/drawable-ldpi/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="display_screen" path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/layout/display_screen.xml" qualifiers="" type="layout"/><file name="list_item" path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/layout/list_item.xml" qualifiers="" type="layout"/><file name="main_screen" path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/layout/main_screen.xml" qualifiers="" type="layout"/><file path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/values/book_titles.xml" qualifiers=""><string-array name="titles">
+        <item>Android Application Resources made easy</item>
+        <item>Android Content Providers made easy</item>
+        <item>Android Processes and Threads made easy</item>
+        <item>Android Intents and Intent Filters made easy</item>
+        <item>Android Services made easy</item>
+        <item>Android Activities, Fragments, Loaders, Tasks and Back stack made easy</item>
+        <item>Android User Interface made easy</item>
+    </string-array></file><file path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/values/new_books.xml" qualifiers=""><string-array name="new_books">
+        <item>Android Security and Permissions made easy</item>
+        <item>Android Manifest File made easy</item>
+        <item>Android Graphics made easy</item>
+        <item>Android Animation made easy</item>
+        <item>Android Renderscript made easy</item>
+        <item>Android Multimedia and Camera made easy</item>
+        <item>Android Sensors made easy</item>
+        <item>Android Location and Maps made easy</item>
+        <item>Android App Widgets made easy</item>
+        <item>Android Bluetooth made easy</item>
+        <item>Android Near Field Communication made easy</item>
+    </string-array></file><file path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/values/search_terms.xml" qualifiers=""><string-array name="search_terms">
+        <item>Android</item>
+        <item>android</item>
+        <item>Content</item>
+        <item>loaders</item>
+        <item>Resources</item>
+        <item>user</item>
+        <item>Android Services made easy</item>
+        <item>pro</item>
+    </string-array></file><file path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/main/res/values/strings.xml" qualifiers=""><string name="hello">www.101apps.co.za for Android made easy ebooks and Tutorials</string><string name="database_delete_confirm">Confirm delete database - no recovery!</string><string name="addAll_label">Add all books - only do once</string><string name="find_label">Find a Book</string><string name="show_label">Show all Books</string><string name="app_name">SQLite Database Tutorial</string><string name="update_label">Update Book</string><string name="database_delete">Delete Entire Database</string><string name="add_all_books_label">Add All Books</string><string name="delete_label">Delete Book</string><string name="show_search_label">Show found books</string><string name="add_label">Add a Book</string></file></source><source path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/build/generated/res/rs/debug"/><source path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/kalpesh/Desktop/UK_BATCH_3/Day4_Local_Storage/Code_Samples/SQLITE/SQLite Database Tutorial/app/src/debug/res"/></dataSet><mergedItems/></merger>

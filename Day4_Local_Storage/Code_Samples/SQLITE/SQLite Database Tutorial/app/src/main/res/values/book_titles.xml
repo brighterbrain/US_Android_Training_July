@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titles">
+        <item>Android Application Resources made easy</item>
+        <item>Android Content Providers made easy</item>
+        <item>Android Processes and Threads made easy</item>
+        <item>Android Intents and Intent Filters made easy</item>
+        <item>Android Services made easy</item>
+        <item>Android Activities, Fragments, Loaders, Tasks and Back stack made easy</item>
+        <item>Android User Interface made easy</item>
+    </string-array>
+
+</resources>
