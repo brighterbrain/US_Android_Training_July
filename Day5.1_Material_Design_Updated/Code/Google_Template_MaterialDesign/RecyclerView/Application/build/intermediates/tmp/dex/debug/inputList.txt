@@ -1,0 +1,7 @@
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/RecyclerView/Application/build/intermediates/classes/debug
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/RecyclerView/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-6ac54c5b08eda71432bcd89642e3b272f629cc85.jar
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-2ed0a38f1ff61c45c89f52ef81984405c86c7fd9.jar
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-374dd82691981155cd2a07dc47839c95442898ea.jar
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/RecyclerView/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-c7754261e00319cd292de9fba7d71d9a7d2c5f56.jar
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-53d76f3aa7232e38cb49c45126c42d66707ddb0f.jar
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-b5f50e395367c29a9f894821803a98da42c879f4.jar

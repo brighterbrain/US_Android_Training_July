@@ -1,0 +1,9 @@
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/classes/debug
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-8f7048c2bef0bb2abeb30966edd6ab83b4042167.jar
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-6ac54c5b08eda71432bcd89642e3b272f629cc85.jar
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-12acbc182d2e060838d8b8ffed8e16ce5dfeecc9.jar
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-79e9c5ab6a586bfbe869ef827e6535e1c10312f0.jar
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-518221eece053d5a821fd4130e1dff76d9bcc960.jar
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-03f1ecb5b38a99b3ddbad8acfb565aced464a276.jar
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-b464ee31aea6f5e2fda93ba0e650904645b13b86.jar
+/Users/kalpesh/Downloads/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-e191f4144450b762b7525d46d94fa7db0e63374a.jar

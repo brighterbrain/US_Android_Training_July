@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-570512383a0aa12af32b6052a6178aea53d3fa62.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b862862bf20b5ab715d2988b07dd971f314466cd.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-b27597633726a891024ff2d7729ac37eef7243e1.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-73be19e09d71a723ad6ce41b50145fbce3a810f9.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/Android_5L/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-6ac54c5b08eda71432bcd89642e3b272f629cc85.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-f5aa0046bb457b07db9961894ea9a7b075109b5d.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-ca2b4493e81faa14d7f89d5a661a8ecd012a82f9.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-7783e61503d4a792d2861d872383636aac0ecefc.jar" />
+    </item>
+
+</items>
