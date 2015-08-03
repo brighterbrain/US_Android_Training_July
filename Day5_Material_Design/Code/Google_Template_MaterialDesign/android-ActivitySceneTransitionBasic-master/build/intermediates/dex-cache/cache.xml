@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-398606b54df4ce6a3259592ad1625094b484eceb.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/pre-dexed/debug/classes-546690dafd6798f0408bd65a4867065d25c08deb.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/pre-dexed/debug/picasso-2.4.0-bdee9abe74e49c92cf97d506ea476f8b256b9c5d.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/pre-dexed/debug/classes-00f278934b7e9427a783e506747dc1a778a2cf9f.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-87b8b5408ec2f369580f2380bb9e4ac18a44be70.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/Android_5L/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-6ac54c5b08eda71432bcd89642e3b272f629cc85.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/android-ActivitySceneTransitionBasic-master/Application/build/intermediates/pre-dexed/debug/classes-aba693fe4e3f573db1333b5b868f208337db9797.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyToolbarProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyToolbarProject.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

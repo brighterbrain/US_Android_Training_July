@@ -1,0 +1,2 @@
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/CardView/Application/build/intermediates/classes/debug
+/Users/kalpesh/Desktop/UK_BATCH_3/Day5_Material_Design/Code/Google_Template_MaterialDesign/CardView/Application/build/intermediates/pre-dexed/debug/classes-ec559f9dd69cec912a188c601769b49b56acb22f.jar

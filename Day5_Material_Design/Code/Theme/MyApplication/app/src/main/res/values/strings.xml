@@ -1,0 +1,23 @@
+<resources>
+
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+ <string name="feedback_label">
+  <![CDATA[
+    Please <a href="http://highlight.com">let us know</a> if you have feedback on this or if
+    you would like to log in with another identity service. Thanks! This is a longer string!
+  ]]>
+  </string>
+
+
+
+    <string-array name="operationsystems">
+        <item>Ubuntu</item>
+        <item>Android</item>
+        <item>Microsoft Windows</item>
+    </string-array>
+
+
+</resources>
